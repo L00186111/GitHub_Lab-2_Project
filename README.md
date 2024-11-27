@@ -1,1 +1,4 @@
 ## Description
+## Method
+## Conclusions
+## References
