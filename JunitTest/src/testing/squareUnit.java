@@ -13,11 +13,11 @@ import org.junit.jupiter.api.Test; //Imports Junit for test methods
  */
 public class squareUnit {
 
-	/**
-	 * Test method for {@link testing.mainTesting#square(int)}.
-  	 * This method tests the functionality of the 'square' method by providing a sample input(4)
-	 * and checking if the method returns the expected output (16).	
-    	 */
+/**
+* Test method for {@link testing.mainTesting#square(int)}.
+* This method tests the functionality of the 'square' method by providing a sample input(4)
+* and checking if the method returns the expected output (16).	
+*/
 	@Test
 	public void test() {
 		// Create an instance of the mainTesting class
