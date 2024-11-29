@@ -17,7 +17,7 @@ public class mainTesting {
 	public int square(int n) {
 		return n*n;
 	}
-**
+/**
  * calculates the sum of two integer
  * @param a the first integer
  * @param b the second integer	
