@@ -43,11 +43,6 @@ Git initiate and 'README' file Created
 ![2 git initiate and REAME file created](https://github.com/user-attachments/assets/c20b3dc6-9035-4594-87f0-ac31bec2fead)
 
 
-Git first commit and status
-![3 git first commit and status](https://github.com/user-attachments/assets/7f832ca5-0b48-43aa-927f-bf8886a9d1c8)
-
-
-
 Action Hello World
 ![4 Action Hello worl workflow](https://github.com/user-attachments/assets/4576cadc-e388-480f-9129-dec5c89b9aa9)
 
