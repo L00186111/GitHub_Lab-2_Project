@@ -2,6 +2,7 @@
 ## Author: Hossain Al Masud
 ## Description
 GitHub Actions, which has many tools, is useful for coding. GitHub Actions is a CI/CD(Continuous Integration/ Continuous Deployment) platform that automates your builds, test, and deployment process. We can automate builds and test every pull request in the repo using workflows on GitHub actions or workflows to deploy that merge PRs to production. GitHub Actions enables you to execute actions as a reaction to the activities in your repo.
+
 A great example of this would be that whenever someone raises a new issue in your repo, you can run a process to add the required labels to them automatically or if someone sends a pull request to your repo then the automated workflows created by you can check whether the pull request can be merged with the main code or not.
 In short, GitHub Actions are there to automate backbreaking tasks within your GitHub projects and make your workflow smoother. These workflows can do everything from testing code to deploying applications to building artefacts and beyond.
 
