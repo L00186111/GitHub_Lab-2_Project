@@ -13,11 +13,11 @@ import org.junit.jupiter.api.Test; //Imports Junit for test methods
  */
 public class sumUnit {
 
-	/**
-	* Test method for {@link testing.mainTesting#square(int)}.
-	* This method tests the functionality of the 'sum' method by providing a sample input(4 and 5)
-	* and checking if the method returns the expected output (9).	
-	*/
+/**
+* Test method for {@link testing.mainTesting#square(int)}.
+* This method tests the functionality of the 'sum' method by providing a sample input(4 and 5)
+* and checking if the method returns the expected output (9).	
+*/
 	@Test
 	public void test() {
 		
