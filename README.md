@@ -1,16 +1,16 @@
 # GitHub Action Project
 ## Author: Hossain Al Masud
-## Description
+### Description
 GitHub Actions, which has many tools, is useful for coding. GitHub Actions is a CI/CD(Continuous Integration/ Continuous Deployment) platform that automates your builds, test, and deployment process. We can automate builds and test every pull request in the repo using workflows on GitHub actions or workflows to deploy that merge PRs to production. GitHub Actions enables you to execute actions as a reaction to the activities in your repo.
 
 A great example of this would be that whenever someone raises a new issue in your repo, you can run a process to add the required labels to them automatically or if someone sends a pull request to your repo then the automated workflows created by you can check whether the pull request can be merged with the main code or not.
 In short, GitHub Actions are there to automate backbreaking tasks within your GitHub projects and make your workflow smoother. These workflows can do everything from testing code to deploying applications to building artefacts and beyond.
 
-## Method
+### Method
 ![CICDpipeline-1](https://github.com/user-attachments/assets/de2c7c67-ad22-4935-8bfa-607819c18520)
 
-## Conclusions
-## References
+### Conclusions
+### References
 Kim, K., Humble, J., Debois, P., Willis, J. & Forsgren, N., 2021. The DevOps Handbook, 2nd ed. IT Revolution.
 
 GitHub, n.d. Quickstart for GitHub Actions: Try out the features of GitHub Actions in 5 minutes or less. [online] Available at: https://docs.github.com/en/actions/writing-workflows/quickstart [Accessed 29 Nov. 2024].
@@ -31,8 +31,7 @@ Oracle, n.d. Technical Article: How to Write Doc Comments for the Javadoc Tool. 
 Think X Academy, 2020. Java: Junit Testing in Eclipse. YouTube. [online] Available at: https://www.youtube.com/watch?v=5Dkw0Yl82JQ
 [Accessed 30 Nov. 2024].
 
-
 VisualStudio, n.d. Java-linting: Java formatting and linting. [online] Available at: https://code.visualstudio.com/docs/java/java-linting
 [Accessed 30 Nov. 2024].
 
-## Appendices
+### Appendices
