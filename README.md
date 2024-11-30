@@ -44,7 +44,8 @@ Git initiate and 'README' file Created
 
 
 Git first commit and status
-![3 git first commit and status](https://github.com/user-attachments/assets/a2a778c1-7b47-4e44-bc5d-59c6dbeeeeb3)
+![3 git first commit and status](https://github.com/user-attachments/assets/7f832ca5-0b48-43aa-927f-bf8886a9d1c8)
+
 
 
 Action Hello World
