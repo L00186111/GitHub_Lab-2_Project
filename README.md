@@ -7,6 +7,8 @@ A great example of this would be that whenever someone raises a new issue in you
 In short, GitHub Actions are there to automate backbreaking tasks within your GitHub projects and make your workflow smoother. These workflows can do everything from testing code to deploying applications to building artefacts and beyond.
 
 ## Method
+![CICDpipeline-1](https://github.com/user-attachments/assets/de2c7c67-ad22-4935-8bfa-607819c18520)
+
 ## Conclusions
 ## References
 Kim, K., Humble, J., Debois, P., Willis, J. & Forsgren, N., 2021. The DevOps Handbook, 2nd ed. IT Revolution.
