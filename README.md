@@ -35,3 +35,10 @@ VisualStudio, n.d. Java-linting: Java formatting and linting. [online] Available
 [Accessed 30 Nov. 2024].
 
 ### Appendices
+
+Cloning Repo in Local Machine
+![1 Cloning Repo In Local machine](https://github.com/user-attachments/assets/fe3c63a6-7195-4749-a976-3772eee2261b)
+
+Git initiate and 'README' file Created
+![2 git initiate and REAME file created](https://github.com/user-attachments/assets/c20b3dc6-9035-4594-87f0-ac31bec2fead)
+
