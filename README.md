@@ -42,3 +42,19 @@ Cloning Repo in Local Machine
 Git initiate and 'README' file Created
 ![2 git initiate and REAME file created](https://github.com/user-attachments/assets/c20b3dc6-9035-4594-87f0-ac31bec2fead)
 
+Git first commit and status
+![3 git first commit and status](https://github.com/user-attachments/assets/a2a778c1-7b47-4e44-bc5d-59c6dbeeeeb3)
+
+Action Hello World
+![4 Action Hello worl workflow](https://github.com/user-attachments/assets/4576cadc-e388-480f-9129-dec5c89b9aa9)
+
+YAML workflow file
+![Yaml](https://github.com/user-attachments/assets/192a4b5b-ce6a-42d1-8474-425a509d07ff)
+
+Single test run in java
+![5 Single test run](https://github.com/user-attachments/assets/b9991cc0-b70e-4c5f-9357-3f01297e7804)
+
+All Test/ 2 programme run in java
+![6 all test with Suits](https://github.com/user-attachments/assets/aafae2d8-7306-48de-b0f5-ad13e8210c04)
+
+
