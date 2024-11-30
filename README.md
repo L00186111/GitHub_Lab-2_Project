@@ -42,6 +42,7 @@ Cloning Repo in Local Machine
 Git initiate and 'README' file Created
 ![2 git initiate and REAME file created](https://github.com/user-attachments/assets/c20b3dc6-9035-4594-87f0-ac31bec2fead)
 
+
 Git first commit and status
 ![3 git first commit and status](https://github.com/user-attachments/assets/a2a778c1-7b47-4e44-bc5d-59c6dbeeeeb3)
 
