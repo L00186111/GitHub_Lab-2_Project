@@ -9,7 +9,16 @@ In short, GitHub Actions are there to automate backbreaking tasks within your Gi
 ### Method
 ![CICDpipeline-1](https://github.com/user-attachments/assets/de2c7c67-ad22-4935-8bfa-607819c18520)
 
+###Result
+Some work shown as screen shot in word project file.
+
 ### Conclusions
+Finally, GitHub action is excellent where we have automated and tested workflow in cloud server. It spans the complete life cycle, from code testing through cloud deployment and validation.
+
+Filling in the Blanks Between Products GitHub Actions and Testing Cloud Servers & More While complex workflows usually involve several different tools, and tend to be spread out across any number of different cloud services. That leads to faster development cycles and better code quality with release code almost error free, it is an indispensable tool in modern DevOps.
+
+* More work in word file.
+
 ### References
 Kim, K., Humble, J., Debois, P., Willis, J. & Forsgren, N., 2021. The DevOps Handbook, 2nd ed. IT Revolution.
 
